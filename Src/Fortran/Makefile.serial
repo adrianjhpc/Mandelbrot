@@ -24,4 +24,4 @@ area.ser:	$(OBJ)
 # Clean out object files and the executable.
 #
 clean:
-	rm *.o area.ser
+	rm -f *.o area.ser
