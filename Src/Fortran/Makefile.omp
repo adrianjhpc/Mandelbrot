@@ -24,4 +24,4 @@ area.omp:	$(OBJ)
 # Clean out object files and the executable.
 #
 clean:
-	rm *.o area.omp
+	rm -f *.o area.omp
